@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyD7A2zZWcuvOrLOV9wXaYQGsDqELr38leI",
+  authDomain: "andronix-b499c.firebaseapp.com",
+  databaseURL: "https://andronix-b499c-default-rtdb.firebaseio.com",
+  projectId: "andronix-b499c",
+  storageBucket: "andronix-b499c.appspot.com",
+  messagingSenderId: "743552237084",
+  appId: "1:743552237084:web:5d5955fe14d1b00f39a9d9",
+  measurementId: "G-28LJY9W63M"
+};
